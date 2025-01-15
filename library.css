@@ -1,0 +1,295 @@
+.home{
+    width: 150px;
+    position: relative;
+    font-size: 40px;
+    line-height: 100%;
+    font-weight: 800;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    text-shadow: 1px 0 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+    cursor: pointer;
+    background-color: transparent;
+}
+.signup{
+    width: 190px;
+    left: 50px;
+    position: relative;
+    font-size: 40px;
+    line-height: 100%;
+    font-weight: 800;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    text-shadow: 1px 0 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+    cursor: pointer;
+    background-color: transparent;
+}
+body {
+    background-image: url('../image/background\ image.png'); 
+    background-size: cover;
+    overflow-x: hidden;
+
+}
+.heading1{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-weight:800;
+    font-family: Inter;
+    line-height:50px;
+
+}
+.heading2{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: Inter;
+    line-height: 150px;
+}
+.libraryofhaarlem{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 100;
+    font-family: Rokkiit;
+}
+.libraryofdenhauge{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 100;
+    font-family: Rokkiit;
+}
+.zeelandlibrary{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 100;
+    font-family: Rokkiit;
+}
+.amsterdamlibrary{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 100;
+    font-family: Rokkiit;
+}
+.radboundlibrary{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 100;
+    font-family: Rokkiit;
+}
+.verijilibrary{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 100;
+    font-family: Rokkiit;
+}
+.heading3{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: Inter;
+    line-height: 150px;
+}
+.book1{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 100;
+    font-family: Rokkiit;
+}
+.book2{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 100;
+    font-family: Rokkiit;
+}
+.book3{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 100;
+    font-family: Rokkiit;
+}
+.book4{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 100;
+    font-family: Rokkiit;
+}
+.book5{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 100;
+    font-family: Rokkiit
+}
+.book6{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 100;
+    font-family: Rokkiit
+}
+.heading4{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: Inter;
+    line-height: 150px;
+}
+.bookname{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 300;
+    font-family: Inter;
+}
+.authorname{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 300;
+    font-family: Inter;
+}
+.bookdetail1{
+    text-align: center;
+    color: white;
+    padding: 70px;
+    font-size: 35px;
+    font-weight: 100;
+    font-family: Rokkiit;
+    letter-spacing: 2px;
+}
+.bookname2{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 300;
+    font-family: Inter;
+}
+.authorname2{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 300;
+    font-family: Inter;
+}
+
+.bookdetail2{
+    text-align: center;
+    color: white;
+    padding: 70px;
+    font-size: 35px;
+    font-weight: 100;
+    font-family: Rokkiit;
+    letter-spacing: 2px;
+}
+.bookname3{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 300;
+    font-family: Inter;   
+}
+.authorname3{
+    text-align: left;
+    color: white;
+    font-size: 35px;
+    font-weight: 300;
+    font-family: Inter
+    
+}
+.bookdetail3{
+    text-align: center;
+    color: white;
+    padding: 70px;
+    font-size: 35px;
+    font-weight: 100;
+    font-family: Rokkiit;
+    letter-spacing: 2px;
+}
+.bookspic {
+    width: 1300px;
+    bottom: 0px;
+    position: relative;
+    border-radius: 28px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 1078px;
+    object-fit: cover;
+    }
+    .footer{
+        color: white;
+        font-size: 20px;
+        font-family:Inter;
+        font-weight: bold;
+        position: relative;
+        bottom: 0px;
+        line-height: 50px;
+        word-spacing:50px;
+    }
+    .footerleft{
+        color: white;
+        font-size:20px ;
+        font-family: Inter;
+        font-weight: bold;
+        position: relative;
+        bottom: 220px;
+        left: 490px;
+        line-height: 50px;
+    }
+    
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+    .home,
+    .signup {
+        font-size: 25px; /* Smaller buttons on mobile */
+    }
+
+    .heading1,
+    .heading2,
+    .heading3,
+    .heading4 {
+        font-size: 30px; /* Smaller headings on mobile */
+        line-height: 40px; 
+    }
+
+    li {
+        font-size: 25px; 
+    }
+
+    .bookdetail1,
+    .bookdetail2,
+    .bookdetail3 {
+        padding: 30px; 
+        font-size: 20px; 
+    }
+
+    .bookspic {
+        width: 100%; 
+    }
+
+    header {
+        flex-direction: column; 
+        align-items: center; 
+    }
+
+    .footer,
+    .footerleft {
+        text-align: center; 
+        word-spacing: normal; 
+    }
+}

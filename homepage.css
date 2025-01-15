@@ -1,0 +1,403 @@
+.signup {
+    width: 203px;
+    height: 55px;
+    left: 210px;
+    position: relative;
+    font-size: 40px;
+    background-color: red; 
+    font-family: Inter;
+    color: #fff;
+    text-align: center;
+    text-shadow: 1px 0 0 #fff, 0 1px 0 #fff, 0 -1px 0 #fff;
+    cursor: pointer;
+    border-radius: 40px;
+    background-color: transparent;
+    border-width: 2px; 
+    border-style: solid; 
+    border-color: rgba(255, 255, 255, 0.5); 
+}
+
+.contact {
+    width: 213px;
+    height: 55px;
+    left: 680px;
+    position: relative;
+    font-size: 40px;
+    background-color: red; 
+    font-family: Inter;
+    color: #fff;
+    text-align: center;
+    text-shadow: 1px 0 0 #fff, 0 1px 0 #fff, 0 -1px 0 #fff;
+    cursor: pointer;
+    border-radius: 40px;
+    background-color: transparent;
+    border-width: 2px;
+    border-style: solid; 
+    border-color: rgba(255, 255, 255, 0.5); 
+}
+
+.logo {
+    position: relative;
+    width: 200px;
+    height: 100px;
+    top: 40px;
+    left: 150px;
+    border-radius: 35px;
+}
+
+body {
+    background-image: url('../image/background\ image.png');
+    background-size: cover;
+    overflow-x: hidden;
+    background-repeat: no-repeat;
+}
+   
+
+.navbox {
+    width: 100%;
+    top: 50px;
+    position: relative;
+    border-radius: 30px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 456px;
+    object-fit: cover;
+}
+
+.home {
+    width: 145px;
+    bottom: 350px;
+    left: 565px;
+    position: relative;
+    font-size: 40px;
+    line-height: 100%;
+    font-weight: 800;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    text-shadow: 1px 0 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+    background-color: transparent;
+}
+
+.library {
+    width: 190px;
+    bottom: 250px;
+    left: 390px;
+    position: relative;
+    font-size: 40px;
+    line-height: 100%;
+    font-weight: 800;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    text-shadow: 1px 0 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+    background-color: transparent;
+}
+
+.books {
+    width: 160px;
+    bottom: 150px;
+    left: 220px;
+    position: relative;
+    font-size: 40px;
+    line-height: 100%;
+    font-weight: 800;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    text-shadow: 1px 0 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+    background-color: transparent;
+}
+
+.institutes {
+    width: 260px;
+    bottom: 50px;
+    left: 4px;
+    position: relative;
+    font-size: 40px;
+    line-height: 100%;
+    font-weight: 800;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    text-shadow: 1px 0 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+    background-color: transparent;
+}
+
+.haugelibrary {
+    width: 500px;
+    top: 60px;
+    left: 50px;
+    position: relative;
+    border-radius: 28px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 340px;
+    object-fit: cover;
+}
+
+.haugelibrarybutton {
+    width: 430px;
+    top: 60px;
+    left: 800px;
+    position: relative;
+    font-size: 35px;
+    font-weight: 800;
+    font-family: Inter;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+    background-color: transparent;
+}
+
+.haarlemlibrary {
+    width: 500px;
+    bottom: 413px;
+    left: 720px;
+    position: relative;
+    border-radius: 28px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 340px;
+    object-fit: cover;
+}
+
+.haarlemlibrarybutton {
+    width: 450px;
+    bottom: 700px;
+    left: 100px;
+    position: relative;
+    font-size: 35px;
+    font-weight: 800;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    background-color: transparent;
+}
+
+.zeelandlibrary {
+    width: 500px;
+    bottom: 130px;
+    left: 270px;
+    position: relative;
+    border-radius: 28px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 340px;
+    object-fit: cover;
+}
+
+.zeelandlibrarybutton {
+    width: 360px;
+    bottom: 60px;
+    left: -150px;
+    position: relative;
+    font-size: 35px;
+    font-weight: 800;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    background-color: transparent;
+}
+
+.radboundlibrary {
+    width: 500px;
+    bottom: 482px;
+    left: 50px;
+    position: relative;
+    border-radius: 28px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 340px;
+    object-fit: cover;
+}
+
+.radboundlibrarybutton {
+    width: 390px;
+    bottom: 410px;
+    right: 400px;
+    position: relative;
+    font-size: 35px;
+    font-weight: 800;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    background-color: transparent;
+}
+
+.amsterdamlibrary {
+    width: 500px;
+    bottom: 352px;
+    left: 50px;
+    position: relative;
+    border-radius: 28px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 340px;
+    object-fit: cover;
+}
+
+.amsterdamlibrarybutton {
+    width: 430px;
+    bottom: 280px;
+    right: 420px;
+    position: relative;
+    font-size: 35px;
+    font-weight: 800;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    background-color: transparent;
+}
+
+.verijilibrary {
+    width: 500px;
+    bottom: 704px;
+    left: 720px;
+    position: relative;
+    border-radius: 28px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 340px;
+    object-fit: cover;
+}
+
+.verijilibrarybutton {
+    width: 360px;
+    bottom: 630px;
+    left: 290px;
+    position: relative;
+    font-size: 35px;
+    font-weight: 800;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    background-color: transparent;
+}
+
+.backlibrary {
+    width: 1300px;
+    bottom: 500px;
+    position: relative;
+    border-radius: 28px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 1078px;
+    object-fit: cover;
+}
+
+.p {
+    width: 874px;
+    bottom: 1600px;
+    left: 170px;
+    position: relative;
+    font-size: 128px;
+    line-height: 70%;
+    font-weight: 800;
+    font-family: Inter;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+    text-shadow: 5px 0 0 #fff, 0 5px 0 #fff, -5px 0 0 #fff, 0 -5px 0 #fff;
+    cursor: pointer;
+}
+
+/* Footer styles */
+.footer{
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: bold;
+    position: relative;
+    bottom: 1300px;
+    line-height: 50px;
+    word-spacing: 0px;
+}
+
+.footerleft{
+    color: white;
+    font-size:20px ;
+    font-family: Inter;
+    font-weight: bold;
+    position: relative;
+    bottom: 1510px;
+    left: 430px;
+    line-height: 50px;
+}
+
+.signup:hover,
+.contact:hover {
+    background-color: rgba(255, 0, 0, 0.7); 
+}
+/* pseudo class selscted link */
+a:visited {
+    color: #ddd;
+}
+
+/* Pseudo-class nth-child for table */
+table tr:nth-child(even) {
+    background-color: #CFF;
+}
+
+table tr:nth-child(odd) {
+    background-color: #FFF; 
+}
+
+/*pseudo element first letter*/
+p::first-letter {
+    font-size: 200%; 
+    color: #FF0; /* Color of the first letter */
+}
+
+.float-left {
+    float: left; 
+}
+
+.float-right {
+    float: right; 
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+    header {
+        flex-direction: column;
+        text-align: center;
+    }
+    nav {
+        flex-direction: column;
+        padding: 1em;
+        position: relative;
+    }
+    main {
+        padding: 1em;
+    }
+    .container {
+        padding: 1em;
+        max-width: 90%;
+    }
+    .signup, .contact {
+        width: 150px;
+        height: 45px;
+        font-size: 20px;
+    }
+    .logo {
+        width: 150px;
+        height: 75px;
+        left: 50px;
+    }
+    .home, .library, .books, .institutes {
+        font-size: 30px;
+    }
+}
+

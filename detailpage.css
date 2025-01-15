@@ -1,0 +1,159 @@
+.home{
+    width: 150px;
+    position: relative;
+    font-size: 40px;
+    line-height: 100%;
+    font-weight: 800;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    text-shadow: 1px 0 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+    cursor: pointer;
+    background-color: transparent;
+}
+body {
+    background-image: url('../image/background\ image.png'); 
+    background-size: cover;
+    overflow-x: hidden;
+    
+
+}
+.signup{
+    width: 190px;
+    left: 50px;
+    position: relative;
+    font-size: 40px;
+    line-height: 100%;
+    font-weight: 800;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    text-shadow: 1px 0 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+    cursor: pointer;
+    background-color: transparent;
+}
+.amsterdamlibrary {
+    width:550px;
+    top: 132px;
+    left:50px;
+    position: relative;
+    border-radius: 28px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 380px;
+    object-fit: cover;
+}
+.libraryinfo{
+    width: 1366px;
+    left: 620px;
+    bottom : 280px;
+    position: relative;
+    font-size: 35px;
+    line-height: 30%;
+    font-weight: 600;
+    font-family: Rokkitt;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    text-indent: 10px;
+}
+.services-and-facilities {
+    
+    position: relative;
+    font-size:30px;
+    font-family: Inter;
+    color:#fff;
+    line-height: 200%;
+    font-weight: 600;
+    text-indent: 10px;
+}
+
+.contactpara {
+width: 981px;
+position: relative;
+bottom: 100px;
+font-size: 40px;
+line-height: 80%;
+font-weight: 600;
+font-family: Rokkitt;
+color: #fff;
+text-align: left;
+display: inline-block;
+}
+.peopleinlibrary{
+   width: 1300px;
+    bottom: 0px;
+    position: relative;
+    border-radius: 28px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 1078px;
+    object-fit: cover; 
+}
+.p{
+    width: 874px;
+    bottom: 1100px;
+    left: 50px;
+    position: relative;
+    font-size: 128px;
+    line-height:70% ;
+    font-weight: 800; 
+    font-family: Inter;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+    text-shadow: 5px 0 0 #fff, 0 5px 0 #fff, -5px 0 0 #fff, 0 -5px 0 #fff;
+    margin: 150px;
+                                          
+}
+.footer{
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: bold;
+    position: relative;
+    bottom: 200px;
+    line-height: 50px;
+    word-spacing:0px;
+    }
+    .footerleft{
+        color: white;
+        font-size:20px ;
+        font-family: Inter;
+        position: relative;
+        bottom: 411px;
+        left: 400px;
+        line-height: 50px;
+    }
+    /* Media Queries for Responsiveness */
+
+/* Smartphones <= 768px */
+@media (max-width: 768px) {
+    .home, .signup {
+        font-size: 24px; 
+    }
+    .amsterdamlibrary {
+        width: 70%; 
+        height: auto; 
+    }
+    .libraryinfo, .contactpara, .services-and-facilities {
+        font-size: 20px; 
+        width: 90%; 
+        margin: auto; 
+    }
+    .p {
+        font-size: 24px;
+        right:100px;
+    }
+    .peopleinlibrary {
+        width: 100%; 
+        height: auto; 
+    }
+    .footer, .footerleft {
+        font-size: 16px;
+        text-align: center; 
+    }
+}
+
